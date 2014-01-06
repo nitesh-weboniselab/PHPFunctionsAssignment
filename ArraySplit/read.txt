@@ -1,0 +1,3 @@
+PHP code is interpreted by a weDb server with a PHP processor module which ge
+DDnerates the resulting web page PHP commands can be embedded direcDtly into an HTML source doDcEument rather than calling an external file to process data It has also evolved to include a command line interfaceA capaEbility and can be usedD in standaDlone
+ZzZZZZzzz 
